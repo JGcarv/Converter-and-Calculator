@@ -15,6 +15,15 @@
 		64F8C81A1C20A90B007DE45F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64F8C8181C20A90B007DE45F /* LaunchScreen.storyboard */; };
 		64F8C8251C20A90B007DE45F /* Questa_o_3Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F8C8241C20A90B007DE45F /* Questa_o_3Tests.m */; };
 		64F8C8301C20A90B007DE45F /* Questa_o_3UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F8C82F1C20A90B007DE45F /* Questa_o_3UITests.m */; };
+		64F8C83F1C20B1EB007DE45F /* ProgAritimetica.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F8C83E1C20B1EB007DE45F /* ProgAritimetica.m */; };
+		64F8C8421C20B82F007DE45F /* PaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F8C8411C20B82F007DE45F /* PaViewController.m */; };
+		64F8C8451C21031C007DE45F /* Funcionario.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F8C8441C21031C007DE45F /* Funcionario.m */; };
+		64F8C8481C210368007DE45F /* Gerente.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F8C8471C210368007DE45F /* Gerente.m */; };
+		64F8C84B1C21037C007DE45F /* Vendedor.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F8C84A1C21037C007DE45F /* Vendedor.m */; };
+		64F8C84E1C210C95007DE45F /* CalcularSalarioViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F8C84D1C210C95007DE45F /* CalcularSalarioViewController.m */; };
+		64F8C8531C21B316007DE45F /* Temperatura.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F8C8521C21B316007DE45F /* Temperatura.m */; };
+		64F8C8561C21C40B007DE45F /* TemperaturaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F8C8551C21C40B007DE45F /* TemperaturaViewController.m */; };
+		64F8C85A1C21DFCE007DE45F /* CalculadoraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 64F8C8591C21DFCE007DE45F /* CalculadoraViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +60,24 @@
 		64F8C82B1C20A90B007DE45F /* Questão 3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Questão 3UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		64F8C82F1C20A90B007DE45F /* Questa_o_3UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Questa_o_3UITests.m; sourceTree = "<group>"; };
 		64F8C8311C20A90B007DE45F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64F8C83D1C20B1EB007DE45F /* ProgAritimetica.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ProgAritimetica.h; path = PA/ProgAritimetica.h; sourceTree = "<group>"; };
+		64F8C83E1C20B1EB007DE45F /* ProgAritimetica.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ProgAritimetica.m; path = PA/ProgAritimetica.m; sourceTree = "<group>"; };
+		64F8C8401C20B82F007DE45F /* PaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PaViewController.h; path = PA/PaViewController.h; sourceTree = "<group>"; };
+		64F8C8411C20B82F007DE45F /* PaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PaViewController.m; path = PA/PaViewController.m; sourceTree = "<group>"; };
+		64F8C8431C21031C007DE45F /* Funcionario.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Funcionario.h; path = "Calculo de Salario/Funcionario.h"; sourceTree = "<group>"; };
+		64F8C8441C21031C007DE45F /* Funcionario.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Funcionario.m; path = "Calculo de Salario/Funcionario.m"; sourceTree = "<group>"; };
+		64F8C8461C210368007DE45F /* Gerente.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Gerente.h; path = "Calculo de Salario/Gerente.h"; sourceTree = "<group>"; };
+		64F8C8471C210368007DE45F /* Gerente.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Gerente.m; path = "Calculo de Salario/Gerente.m"; sourceTree = "<group>"; };
+		64F8C8491C21037C007DE45F /* Vendedor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Vendedor.h; path = "Calculo de Salario/Vendedor.h"; sourceTree = "<group>"; };
+		64F8C84A1C21037C007DE45F /* Vendedor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Vendedor.m; path = "Calculo de Salario/Vendedor.m"; sourceTree = "<group>"; };
+		64F8C84C1C210C95007DE45F /* CalcularSalarioViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CalcularSalarioViewController.h; path = "Calculo de Salario/CalcularSalarioViewController.h"; sourceTree = "<group>"; };
+		64F8C84D1C210C95007DE45F /* CalcularSalarioViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CalcularSalarioViewController.m; path = "Calculo de Salario/CalcularSalarioViewController.m"; sourceTree = "<group>"; };
+		64F8C8511C21B316007DE45F /* Temperatura.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Temperatura.h; path = Temperatura/Temperatura.h; sourceTree = "<group>"; };
+		64F8C8521C21B316007DE45F /* Temperatura.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Temperatura.m; path = Temperatura/Temperatura.m; sourceTree = "<group>"; };
+		64F8C8541C21C40B007DE45F /* TemperaturaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TemperaturaViewController.h; path = Temperatura/TemperaturaViewController.h; sourceTree = "<group>"; };
+		64F8C8551C21C40B007DE45F /* TemperaturaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TemperaturaViewController.m; path = Temperatura/TemperaturaViewController.m; sourceTree = "<group>"; };
+		64F8C8581C21DFCE007DE45F /* CalculadoraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CalculadoraViewController.h; path = Calculadora/CalculadoraViewController.h; sourceTree = "<group>"; };
+		64F8C8591C21DFCE007DE45F /* CalculadoraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CalculadoraViewController.m; path = Calculadora/CalculadoraViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +105,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6456DF201C21E2980033ED39 /* Calculadora */ = {
+			isa = PBXGroup;
+			children = (
+				64F8C8581C21DFCE007DE45F /* CalculadoraViewController.h */,
+				64F8C8591C21DFCE007DE45F /* CalculadoraViewController.m */,
+			);
+			name = Calculadora;
+			sourceTree = "<group>";
+		};
 		64F8C7FE1C20A90B007DE45F = {
 			isa = PBXGroup;
 			children = (
@@ -110,6 +146,10 @@
 				64F8C8181C20A90B007DE45F /* LaunchScreen.storyboard */,
 				64F8C81B1C20A90B007DE45F /* Info.plist */,
 				64F8C80A1C20A90B007DE45F /* Supporting Files */,
+				64F8C84F1C21B2A9007DE45F /* PA */,
+				64F8C8501C21B2B9007DE45F /* Calcular Salário */,
+				64F8C8571C21D938007DE45F /* Temperatura */,
+				6456DF201C21E2980033ED39 /* Calculadora */,
 			);
 			path = "Questão 3";
 			sourceTree = "<group>";
@@ -138,6 +178,43 @@
 				64F8C8311C20A90B007DE45F /* Info.plist */,
 			);
 			path = "Questão 3UITests";
+			sourceTree = "<group>";
+		};
+		64F8C84F1C21B2A9007DE45F /* PA */ = {
+			isa = PBXGroup;
+			children = (
+				64F8C83D1C20B1EB007DE45F /* ProgAritimetica.h */,
+				64F8C83E1C20B1EB007DE45F /* ProgAritimetica.m */,
+				64F8C8401C20B82F007DE45F /* PaViewController.h */,
+				64F8C8411C20B82F007DE45F /* PaViewController.m */,
+			);
+			name = PA;
+			sourceTree = "<group>";
+		};
+		64F8C8501C21B2B9007DE45F /* Calcular Salário */ = {
+			isa = PBXGroup;
+			children = (
+				64F8C8431C21031C007DE45F /* Funcionario.h */,
+				64F8C8441C21031C007DE45F /* Funcionario.m */,
+				64F8C8461C210368007DE45F /* Gerente.h */,
+				64F8C8471C210368007DE45F /* Gerente.m */,
+				64F8C8491C21037C007DE45F /* Vendedor.h */,
+				64F8C84A1C21037C007DE45F /* Vendedor.m */,
+				64F8C84C1C210C95007DE45F /* CalcularSalarioViewController.h */,
+				64F8C84D1C210C95007DE45F /* CalcularSalarioViewController.m */,
+			);
+			name = "Calcular Salário";
+			sourceTree = "<group>";
+		};
+		64F8C8571C21D938007DE45F /* Temperatura */ = {
+			isa = PBXGroup;
+			children = (
+				64F8C8511C21B316007DE45F /* Temperatura.h */,
+				64F8C8521C21B316007DE45F /* Temperatura.m */,
+				64F8C8541C21C40B007DE45F /* TemperaturaViewController.h */,
+				64F8C8551C21C40B007DE45F /* TemperaturaViewController.m */,
+			);
+			name = Temperatura;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -270,8 +347,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64F8C83F1C20B1EB007DE45F /* ProgAritimetica.m in Sources */,
+				64F8C84E1C210C95007DE45F /* CalcularSalarioViewController.m in Sources */,
+				64F8C8531C21B316007DE45F /* Temperatura.m in Sources */,
+				64F8C8451C21031C007DE45F /* Funcionario.m in Sources */,
+				64F8C8481C210368007DE45F /* Gerente.m in Sources */,
 				64F8C8121C20A90B007DE45F /* ViewController.m in Sources */,
+				64F8C84B1C21037C007DE45F /* Vendedor.m in Sources */,
 				64F8C80F1C20A90B007DE45F /* AppDelegate.m in Sources */,
+				64F8C85A1C21DFCE007DE45F /* CalculadoraViewController.m in Sources */,
+				64F8C8561C21C40B007DE45F /* TemperaturaViewController.m in Sources */,
+				64F8C8421C20B82F007DE45F /* PaViewController.m in Sources */,
 				64F8C80C1C20A90B007DE45F /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,6 +498,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Questão 3/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jgcarv.Questa-o-3";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -423,6 +510,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Questão 3/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jgcarv.Questa-o-3";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -496,6 +584,7 @@
 				64F8C8361C20A90B007DE45F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		64F8C8371C20A90B007DE45F /* Build configuration list for PBXNativeTarget "Questão 3Tests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +593,7 @@
 				64F8C8391C20A90B007DE45F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		64F8C83A1C20A90B007DE45F /* Build configuration list for PBXNativeTarget "Questão 3UITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +602,7 @@
 				64F8C83C1C20A90B007DE45F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
